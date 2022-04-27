@@ -33,10 +33,10 @@ extra-deps:
   - wavefront-0.7.1.4@sha256:0a1e4bc3de7a450c8da2c3b962ebc0b54acdeb9664e73cdd4649861740d96024,1999
   - gltf-codec-0.1.0.3@sha256:42b5ad708c7a0a073c0a35d5ebccc9ba19537085b01f7f3b5fc4304d91ec0b51,2544
 
-  - git: https://github.com/grav2ity/polynomial.git
+  - git: https://github.com/grav2itty/polynomial.git
     commit: 109686b52c8bdace29f92f83d1458b33391e2afa
 
-  - git: https://github.com/grav2ity/splines.git
+  - git: https://github.com/grav2itty/splines.git
     commit: abace4ff3a1b8801c45cd6343aad476fad27ea6d
 
   - git: https://github.com/noinia/hgeometry.git
