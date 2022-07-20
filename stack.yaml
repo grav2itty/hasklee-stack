@@ -30,8 +30,12 @@ extra-deps:
   - data-fix-cse-0.0.3
   - wl-pprint-1.2.1
 
-  - wavefront-0.7.1.4@sha256:0a1e4bc3de7a450c8da2c3b962ebc0b54acdeb9664e73cdd4649861740d96024,1999
+  - hOff-parser-0.1.0.0@sha256:d1b6f898b292b39d85969dab71eb91613c97d11eff22a3e314ddcc4401b064a9,1191
   - gltf-codec-0.1.0.3@sha256:42b5ad708c7a0a073c0a35d5ebccc9ba19537085b01f7f3b5fc4304d91ec0b51,2544
+  - wavefront-0.7.1.4@sha256:0a1e4bc3de7a450c8da2c3b962ebc0b54acdeb9664e73cdd4649861740d96024,1999
+
+  - git: https://github.com/grav2itty/hgal.git
+    commit: 9f7b0eade5b7838c5150bea3acc3e721b2f150c4
 
   - git: https://github.com/grav2itty/polynomial.git
     commit: 109686b52c8bdace29f92f83d1458b33391e2afa
